@@ -1,4 +1,11 @@
-
 def print_banner():
-    banner = "=== PARROT PET GAME ==="
+    banner = r"""
+      
+        v
+       (o>
+      // \\
+      \\_//
+
+==PARROT PET GAME==
+"""
     print(banner)
