@@ -1,0 +1,92 @@
+[
+  {
+    "key": "snail_chase",
+    "condition": { "min_hunger": 0, "max_hunger": 100, "max_health": 100 },
+    "weight": 5,
+    "happiness": 2,
+    "energy": -1,
+    "health": 0,
+    "text": "{pet_name} follows a tiny snail at a leisurely pace. Happiness +2, Energy -1, Health unchanged."
+  },
+  {
+    "key": "wire_chew",
+    "condition": { "min_hunger": 0, "max_hunger": 100, "max_health": 100 },
+    "weight": 3,
+    "happiness": -5,
+    "energy": -2,
+    "health": -80,
+    "text": "Mischievous {pet_name} chews on an electrical wire and recoils in shock. Happiness -5, Energy -2, Health -80. Hurry to the vet!"
+  },
+  {
+    "key": "thunder_fright",
+    "condition": { "min_hunger": 0, "max_hunger": 100, "max_health": 100 },
+    "weight": 4,
+    "happiness": -3,
+    "energy": 0,
+    "health": -50,
+    "text": "A sudden clap of thunder startles {pet_name}, causing a racing heartbeat. Happiness -3, Energy unchanged, Health -50."
+  },
+  {
+    "key": "reflection_surprise",
+    "condition": { "min_hunger": 0, "max_hunger": 100, "max_health": 100 },
+    "weight": 4,
+    "happiness": 3,
+    "energy": -2,
+    "health": 0,
+    "text": "{pet_name} sees its reflection in a mirror and pounces in surprise. Happiness +3, Energy -2, Health unchanged."
+  },
+  {
+    "key": "bounce_ball",
+    "condition": { "min_hunger": 0, "max_hunger": 100, "max_health": 100 },
+    "weight": 5,
+    "happiness": 4,
+    "energy": -3,
+    "health": 0,
+    "text": "A bouncing ball rolls by, and {pet_name} chases it with delight. Happiness +4, Energy -3, Health unchanged."
+  },
+  {
+    "key": "cookie_sniff",
+    "condition": { "min_hunger": 0, "max_hunger": 100, "max_health": 100 },
+    "weight": 6,
+    "happiness": 5,
+    "energy": 1,
+    "health": -2,
+    "text": "A sweet cookie scent drifts from the kitchen, and {pet_name} happily circles around. Happiness +5, Energy +1, Health -2 (beware of too much sugar)."
+  },
+  {
+    "key": "nap_snooze",
+    "condition": { "min_hunger": 0, "max_hunger": 100, "max_health": 100 },
+    "weight": 4,
+    "happiness": 1,
+    "energy": 10,
+    "health": 5,
+    "text": "Little {pet_name} takes a nap and wakes up refreshed. Energy +10, Happiness +1, Health +5."
+  },
+  {
+    "key": "feather_tickle",
+    "condition": { "min_hunger": 0, "max_hunger": 100, "max_health": 100 },
+    "weight": 3,
+    "happiness": 3,
+    "energy": 0,
+    "health": 0,
+    "text": "A gentle breeze ruffles feathers, lightly brushing {pet_name}'s cheek. Happiness +3, Health unchanged."
+  },
+  {
+    "key": "window_bird",
+    "condition": { "min_hunger": 0, "max_hunger": 100, "max_health": 100 },
+    "weight": 5,
+    "happiness": 6,
+    "energy": -1,
+    "health": 0,
+    "text": "A small bird taps on the window, and {pet_name} excitedly responds. Happiness +6, Energy -1, Health unchanged."
+  },
+  {
+    "key": "bubble_pop",
+    "condition": { "min_hunger": 0, "max_hunger": 100, "max_health": 100 },
+    "weight": 4,
+    "happiness": 4,
+    "energy": -2,
+    "health": 0,
+    "text": "Soap bubbles float and pop in the air, and {pet_name} pounces around. Happiness +4, Energy -2, Health unchanged."
+  }
+]
