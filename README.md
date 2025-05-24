@@ -15,7 +15,7 @@ Pet your parrot’s head, wings, belly, or paws—each spot produces unique reac
 Travel System
 Take your parrot on trips to four locations— Beach, Forest, Mountain, and City—triggering random scenes and recording each memory.
 
-Random Event Engine**
+Random Event Engine
 Powered by an external JSON config (e.g. snail chase, electric shock, bubble popping).  Add, remove, or tweak events on the fly for endless surprises.
 
 Mini-Games
